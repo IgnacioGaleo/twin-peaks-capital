@@ -224,10 +224,10 @@ module acaBackend 'core/host/container-app-upsert.bicep' = {
 var embedModel = 'text-embedding-3-large'
 var openAiDeployments = [
   {
-    name: 'gpt-4o-mini-realtime-preview'
+    name: 'gpt-4o-realtime-preview'
     model: {
       format: 'OpenAI'
-      name: 'gpt-4o-mini-realtime-preview'
+      name: 'gpt-4o-realtime-preview'
       version: realtimeDeploymentVersion
     }
     sku: {
