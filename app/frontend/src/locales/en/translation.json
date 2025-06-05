@@ -1,6 +1,6 @@
 {
     "app": {
-        "title": "Habla con tu Asistente Virtual de Twin Peaks Captital",
+        "title": "Habla con tu Asistente Virtual de Twin Peaks Capital",
         "footer": "Built by Galeo with Azure AI Search + Azure OpenAI",
         "stopRecording": "Stop recording",
         "startRecording": "Start recording",
